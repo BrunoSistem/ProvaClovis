@@ -1,0 +1,75 @@
+
+
+body {
+
+	
+	background: url(https://themes.kabum.com.br/conteudo/layout/1392/bg.jpg?int_banner_name=THEME-UPGRADE-AGOSTO&int_banner_position=tematizacao_home) center top no-repeat;
+	height: 100%;
+	font-family: 'Prohibition',sans-serif;
+	background-size: cover;
+	border: 0px;
+
+	
+}
+
+div a {
+	border: 0px;
+}
+
+.logo{
+	font-size: 2em;
+	text-shadow: 2px 4px #ff0000;
+	
+}
+
+.logo:hover{
+
+	text-shadow: 2px 4px #A5DF00;
+
+
+}
+
+
+#carrossel {
+
+	background: url(../imagens/asusrog.jpg) center top no-repeat;
+	margin-top: 370px;
+	padding: 100px 0;
+	 border-top-left-radius: 10px;
+	 border-top-right-radius: 10px;
+	
+}
+
+#hovernavegacao :hover{
+
+	color: #fff;
+
+	border-bottom: 1px solid #fff;
+	
+	font-weight: 600;
+	text-shadow: 2px 3px #ff0000;
+	
+}
+
+.navbar {
+
+	font-weight: 600;
+	text-transform: uppercase;
+	 
+}
+
+.desktop {
+margin: 10px 0px;
+
+}
+
+.desktopbordas :hover {
+
+
+border: 1px solid #58ACFA;
+	
+}
+
+div, a {
+	border: 0px;
+}
